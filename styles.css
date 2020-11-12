@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Lobster', cursive;
+}
+
+ul,
+p {
+    font-family: 'Anton', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #FFFF66;
+}
+
+img {
+    width: 200px;
+}
